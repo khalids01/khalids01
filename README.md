@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Elixir, Phoenix**
 
-- 💬 Ask me about **Nextjs, Sveltekit, Nestjs, Node, Docker, Linux Nginx**
+- 💬 Ask me about **Nextjs, Sveltekit, Nestjs, Node, Docker, Linux, Nginx**
 
 - 📫 How to reach me **khalid.code03@gmail.com**
 
