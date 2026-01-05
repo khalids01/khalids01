@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalids01&label=Profile%20views&color=0e75b6&style=flat" alt="khalids01" /> </p>
 
-- 🌱 I’m currently learning **Elixir, Phoenix**
+- 🌱 I’m currently learning **BlockChain**
 
-- 💬 Ask me about **Nextjs, Sveltekit, Nestjs, Node, Docker, Linux, Nginx**
+- 💬 Ask me about **Elysia.js, Tanstack, Dokploy, Nextjs, Sveltekit, Nestjs, Node, Docker, Linux, Nginx**
 
 - 📫 How to reach me **khalid.code03@gmail.com**
 
