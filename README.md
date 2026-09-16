@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalids01&label=Profile%20views&color=0e75b6&style=flat" alt="khalids01" /> </p>
 
-- 🌱 I’m currently learning **BlockChain**
+- 🌱 I’m currently learning **Odin**
 
 - 💬 Ask me about **Elysia.js, Tanstack, Dokploy, Nextjs, Sveltekit, Nestjs, Node, Docker, Linux, Nginx**
 
